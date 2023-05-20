@@ -1,4 +1,4 @@
-
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm SHIVAM AGARWALLA</h1>
 <h3 align="center">GirlScript Summer of Code '23 | Celebal Summer Internship '23 | Web Developer | Data Analyst | CSE @ KIIT(2020-2024)</h3>
 

@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm SHIVAM AGARWALLA</h1>
-<h3 align="center">GirlScript Summer of Code '23 | Celebal Summer Internship '23 | Web Developer | Data Analyst | CSE @ KIIT(2020-2024)</h3>
+<h3 align="center">Upcoming Analyst @Deloitte USI'24 | GirlScript Summer of Code '23 | Celebal Summer Internship '23 | Product Engineering Intern @HighRadius'23 | Web Developer | Data Analyst | CSE @ KIIT(2020-2024)</h3>
 
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,16 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivamagarwall6" target="blank"><img src="https://img.shields.io/twitter/follow/shivamagarwall6?logo=twitter&style=for-the-badge" alt="shivamagarwall6" /></a> </p>
 
-- 🔭 I’m currently working as a Data Engineer Intern with **Celebal Technologies**
-
-- 🌱 I’m currently learning **React, Data Analysis**
-
-- 🤝 I’m also involved in making open source contributions under **GirlScript Summer of Code '23 program**
-
 - 📫 How to reach me **shivamagarwalla05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vRQOCXsvcs3eBXA2KuF4bBYhN7g6Rz0K/view?usp=share_link](https://drive.google.com/file/d/1vRQOCXsvcs3eBXA2KuF4bBYhN7g6Rz0K/view?usp=share_link)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1S0OEz9Q9nhC3YRo2eK4V1aT_kwiP9_wW/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivamagarwall6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamagarwall6" height="30" width="40" /></a>

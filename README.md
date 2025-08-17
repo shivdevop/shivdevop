@@ -10,6 +10,8 @@ Demonstrates ownership, collaboration, and a commitment to code quality in fast-
 
 - 🧑‍💻 **Profession:** _Software developer_
 - 🌍 **Location:** _Bengaluru, India_
+- 📧 **Mail:** _shivamagarwalla05@gmail.com_
+- 📞 **Contact:** _+91 7665183577_
 
 ---
 

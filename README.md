@@ -36,7 +36,7 @@ Demonstrates ownership, collaboration, and a commitment to code quality in fast-
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/shivam-agarwalla-774858166/)
-- [Email](shivamagarwalla05@gmail.com)
+- [Email](mailto:shivamagarwalla05@gmail.com)
 
 ---
 

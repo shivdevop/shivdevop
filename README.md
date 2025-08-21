@@ -32,6 +32,7 @@ Demonstrates ownership, collaboration, and a commitment to code quality in fast-
 |------------------|---------------------------|----------------------------|
 | _Devtube_ | _a developer-focused video-sharing social media platform_     | [GitHub Repo](https://github.com/shivdevop/DevTube-backend)           |
 | _Cricket Code Breakers_ | _a data analytics project on world cup tournament data_     | [GitHub Repo](https://github.com/shivdevop/Cricket-data-analytics-project)           |
+| _Job Application Tracker AI_ | _track you job applications all at one place and get resume insights against your desired job_ | [GitHub Repo](https://github.com/shivdevop/JobApplicationTracker-with-AI-features) |
 
 ---
 
